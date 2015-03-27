@@ -1,1 +1,1 @@
-# JavaScript Snippets primaraly for HTML5
+# JavaScript Snippets primarily for HTML5
